@@ -1,29 +1,24 @@
-<<<<<<< HEAD
-# UTS_MOBILE-PROGRAMMING
-UTS kodingan mobile programming
-## Fitur
-- Login
-=======
-## Deskripsi
-Project Flutter sederhana untuk tugas UTS.
+# UTS Mobile Programming - Microsoft Data
+
+**Data Mahasiswa:**
+* **Nama:** Angelina Sastriani Meyen
+* **NIM:** 2401010442
+* **Prodi:** Teknik Informatika (INSTIKI)
+
+---
+
+## Deskripsi Project
+Aplikasi "Microsoft Data" adalah project Flutter yang dibangun untuk memenuhi tugas UTS Praktikum Mobile Programming. Aplikasi ini memiliki tema antarmuka yang terinspirasi dari produk Microsoft, lengkap dengan sistem login, validasi, dan dashboard data.
+
+## Fitur Utama
+* **Autentikasi Login:** Simulasi login dengan akun hardcoded.
+* **Validasi Form:** Menggunakan Regex untuk memastikan format email benar.
+* **Toggle Password Visibility:** Fitur untuk menampilkan atau menyembunyikan password.
+* **Navigation & Routing:** Berpindah halaman menggunakan Named Routes.
+* **Dashboard:** Menampilkan email pengguna secara dinamis dan daftar laporan.
+
 ## Cara Menjalankan
-flutter pub get
-flutter run
-# microsoft
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 003c8f8 (first commit)
+1. Pastikan Flutter SDK sudah terpasang.
+2. Jalankan perintah di terminal:
+   ```bash
+   flutter pub get
